@@ -1,0 +1,18 @@
+{
+  "sliders": [
+    {
+      "title": "Recent or Upcoming Books",
+      "subTitle": "We'll Sing and We'll Shout: The Life and Times of W. W. Phelps",
+      "text": "In this comprehensive biography, learn of the trials and triumphs of W. W. Phelps, a central Latter-day Saint leader, printer, scribe, ghostwriter, and monumental hymn writer.",
+      "imgSrc": "https://rsc.byu.edu/sites/default/files/styles/medium/public/pubs/WW%20Phelps%20Cover_FRONT%20w%20Depth.jpg?itok=V9d20Y-a",
+      "learnMore": ""
+    },
+    {
+      "title": "Recent or Upcoming Books",
+      "subTitle": "Thou Art the Christ, the Son of the Living God: The Person and Work of Jesus in the New Testament",
+      "text": "While Jesus and his disciples were at or near Caesarea Philippi, Peter testified that Jesus was “the Christ, the Son of the living God.” Martha had a similar divine testimony, proclaiming, “I believe that thou art the Christ, the Son of God.” In much the same way, a standard part of Latter-day Saint discourse includes bearing testimony that “Jesus is the Christ,” but what do we mean when we say that Jesus is the Christ?",
+      "imgSrc": "https://rsc.byu.edu/sites/default/files/styles/medium/public/pubs/Thou%20Art%20the%20Christ%20Front%20Cover%20w%20Depth.jpg?itok=QkZne9n5",
+      "learnMore": ""
+    }
+  ]
+}
